@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/sl_on_2.png</file>
+        <file>icons/sl_on.png</file>
+        <file>icons/sl_off_2.png</file>
+        <file>icons/sl_off.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/search.png</file>
+        <file>icons/low_beam.png</file>
+        <file>icons/high_beam.png</file>
+        <file>icons/headlight_off.png</file>
+        <file>icons/camera_on.png</file>
+        <file>icons/camera.png</file>
+        <file>icons/asr_on1.png</file>
+        <file>icons/asr_off.png</file>
+        <file>icons/ai_cam_on.png</file>
+        <file>icons/ai_cam_off.png</file>
+    </qresource>
+</RCC>
